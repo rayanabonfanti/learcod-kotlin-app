@@ -1,10 +1,7 @@
 {
   "name": "learcod",
   "integrations": {
-    "capacitor": {
-      "enabled": false
-    },
-    "cordova": {}
+    "capacitor": {}
   },
   "type": "angular"
 }
