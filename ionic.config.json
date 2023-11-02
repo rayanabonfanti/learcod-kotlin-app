@@ -1,7 +1,0 @@
-{
-  "name": "learcod",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
